@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Logica</string>
+    <string name="title">Conjunction (AND)</string>
+    <string name="exampleFieldQ1">A</string>
+    <string name="exampleFieldQ2">B</string>
+    <string name="answerField1">A ^ B</string>
+    <string name="questionField1">T</string>
+    <string name="questionField2">T</string>
+    <string name="questionField3">T</string>
+    <string name="questionField4">F</string>
+    <string name="questionField5">F</string>
+    <string name="questionField6">T</string>
+    <string name="questionField8">F</string>
+    <string name="questionField9">F</string>
+    <string name="submitButton">submit</string>
+    <string name="correct">correct!</string>
+    <string name="incorrect">incorrect, try again!</string>
+    <string name="noAnswer">one or more fields are empty!</string>
+</resources>
